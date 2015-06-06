@@ -1,0 +1,38 @@
+{
+  "name": "suzy",
+  "version": "1.0.0",
+  "description": "Content editor for Skry CMS.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liddiard/suzy/"
+  },
+  "keywords": [
+    "editor",
+    "skry",
+    "cms"
+  ],
+  "author": "Harrison Liddiard",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.14.4",
+    "file-loader": "^0.8.4",
+    "fluxxor": "^1.5.4",
+    "jsx-loader": "^0.13.2",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "node-libs-browser": "^0.5.2",
+    "node-sass": "^3.1.2",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "style-loader": "^0.12.3",
+    "tcomb": "^1.0.3",
+    "tcomb-form": "^0.5.4",
+    "tcomb-validation": "^1.0.4",
+    "webpack": "^1.9.10",
+    "webpack-dev-server": "^1.9.0"
+  }
+}
